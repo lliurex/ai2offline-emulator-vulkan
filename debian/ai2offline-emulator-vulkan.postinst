@@ -1,0 +1,2 @@
+#unlz the lib
+lzma -d -f /opt/ai2offline/AI2Offline7.7/from-Android-SDK/emulator/lib64/vulkan/libvulkan_lvp.so.lzma

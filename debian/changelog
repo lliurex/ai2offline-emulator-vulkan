@@ -1,0 +1,12 @@
+ai2offline-emulator (0.2) jammy; urgency=medium
+
+  * Package split
+
+ -- Juanma1980 <juanma1980@gmail.com>  Fri, 20 Feb 2026 18:17:28 +0100
+
+ai2offline-emulator (0.1) jammy; urgency=medium
+
+  * Initial release
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 18 Feb 2026 10:26:10 +0100
+
