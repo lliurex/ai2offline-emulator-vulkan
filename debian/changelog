@@ -1,6 +1,5 @@
-ai2offline-emulator-vulkan (0.2) jammy; urgency=medium
+ai2offline-emulator-vulkan (0.2) noble; urgency=medium
 
   * Package split
 
- -- Juanma1980 <juanma1980@gmail.com>  Fri, 20 Feb 2026 18:17:28 +0100
-
+ -- Juanma1980 <juanma1980@gmail.com>  Fri, 06 Mar 2026 10:35:34 +0100
