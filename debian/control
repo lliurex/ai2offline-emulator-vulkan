@@ -10,6 +10,7 @@ Homepage: https://github.com/lliurex/ai2offline-emulator
 Package: ai2offline-emulator-vulkan
 Breaks: ai2offline-emulator (<=0.1)
 Conflicts: ai2offline-emulator (<=0.1)
+Depends: zero-lliurex-ai2offline
 Architecture: all
 Description: Emulator for ai2offline. Vulkan
  Android 12 emulator for ai2offline. Vulkan
